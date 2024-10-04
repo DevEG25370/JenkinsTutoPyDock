@@ -1,4 +1,4 @@
-print("Nous voici donc dans la partie principale")
+print("Nous voici donc dans la partie principale de mon programme")
 
 A = ["Emmanuel", "Laurence", "Mathilde", "Chloé"]
 
