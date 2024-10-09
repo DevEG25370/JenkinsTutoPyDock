@@ -33,6 +33,9 @@ pipeline {
                 },
                 b: {
                     echo "This is branch b"
+                },
+                c: {
+                    echo "This is branch c"
                 }
                 )
             }
